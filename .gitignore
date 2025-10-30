@@ -1,0 +1,12 @@
+# MacOS
+.DS_Store
+
+# Claude code
+.claude
+claude.md
+CLAUDE.md
+
+# Codex
+agents.md
+AGENTS.md
+.codexignore
